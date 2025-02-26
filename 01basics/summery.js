@@ -46,3 +46,31 @@ Number ==>Number
 String==> String
 function==> return funtion karta h but esko object function bola jata h
 */
+
+
+
+
+
+//************************************ 
+// memory are two type
+// stack memmory ==> jha bhi primitive type datatype milte h baha usse hoti h
+// Heap memmory ==> jha bhi Non primitive datatype use hote h
+
+
+let  myYoutubename="heteshchaudharydotcom"
+let anothername=myYoutubename
+anothername="chaiorcode"
+console.log(myYoutubename)
+console.log(anothername)
+
+
+let use1 =
+{
+    email :"ankush4005@gamil.com",
+    upi : "user@ybl"
+}
+
+let use2= use1
+use2.email="hitesh@google.com"
+console.log(use1.email)
+console.log(use2.email)
