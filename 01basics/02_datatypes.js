@@ -3,8 +3,8 @@
 // alert(3+3)    // we are using nodejs , not browser
 
 
-let name="Ankush"  // it is string datatype
-let age=22  // it is numeric datatype
+let name="Ankush"      // it is string datatype
+let age=22            // it is numeric datatype
 let isLoggedIn=false // it is boolean type data type 
 
 
