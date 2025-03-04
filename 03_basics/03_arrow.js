@@ -63,9 +63,8 @@
     const addtwo=(num1,num2)=> (num1+num2)
 
      
-     console.log(addtwo(5,5));
-
+     console.log(addtwo(5,6));
 
      // object return karna hota to 
      const addtwo1=(num1,num2)=> ({username:"hitesh"})
-     console.log(addtwo1(3,4));
+     console.log(addtwo1(3,8));
